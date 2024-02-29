@@ -5,7 +5,7 @@ const secondsnumber = document.getElementById("secnum");
 
 const currentTime = new Date().getFullYear();
 
-const newDate = new Date(`March 10 ${currentTime} 11:30:00`);
+const newDate = new Date(`March 7 ${currentTime} 11:30:00`);
 
 function updateTimer(){
     const presentTime = new Date();
